@@ -74,4 +74,4 @@ class a {
 
 
 ## 이미지
-![텍스트](이미지링크주소)
+![자기야 싸이월드시절](https://user-images.githubusercontent.com/122515375/234462826-054a2b34-bd89-4a42-9cc3-9052a99efc46.jpg)
